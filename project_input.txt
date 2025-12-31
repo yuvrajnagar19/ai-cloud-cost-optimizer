@@ -1,0 +1,1 @@
+I want to build an ecommerce web application. Budget is 3000 INR per month. Frontend is react backend is Node.js. Hosting on AWS.
