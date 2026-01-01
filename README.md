@@ -1,7 +1,6 @@
 # AI Cloud Cost Optimizer
 
-A Python CLI-based project that uses AI to analyze cloud costs and provide
-optimization recommendations based on a user’s project description.
+A Python CLI-based project that uses AI to analyze cloud costs and provide s optimization recommendations based on a user’s project description.
 
 ## Tech Stack
 - Python
