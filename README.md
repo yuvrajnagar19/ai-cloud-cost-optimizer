@@ -23,7 +23,7 @@ A simple Python CLI tool that uses AI (Hugging Face LLM) to estimate cloud costs
 - `summary_view.py` – Displays summary of results
 
 ## Requirements
-- Python 3.7+
+- Python 3.10+
 - Internet connection (for Hugging Face API)
 
 ## Setup
